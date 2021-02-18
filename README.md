@@ -12,8 +12,6 @@ Supporting Project Resources & Basic Concepts
 
 - [JavaScript Defer Attribute Tutorial:](https://youtu.be/BMuFBYw91UQ)
 
-- [Why I Do Not Use Class Selectors In JS Article:](https://blog.webdevsimplified.com/2019-10/do-not-use-class-selectors-in-javascript/)
-
 - [CSS Variables Tutorial:](https://youtu.be/oZPR_78wCnY​)
 
 - [Array Destructuring Tutorial:](https://youtu.be/NIq3qLaHCIs)
